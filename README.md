@@ -1,1 +1,1 @@
-This project is a proof-of-concept rather than a full working version. The `.cpp` will have to be edited based on which microcontroller you use, but displays the base concepts of how to run a `.tflite` model on a micrcontroller
+This project is a proof-of-concept rather than a full working version. The `.cpp` should be edited based on which microcontroller is used. However, the project does display the base concepts of how to run a `.tflite` model on a micrcontroller
